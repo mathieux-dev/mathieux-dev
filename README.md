@@ -12,7 +12,7 @@ Sou desenvolvedor de software com experiência no desenvolvimento de sistemas ro
 
 📍Experiência anterior no FitBank (instituição de pagamento), onde atuei com manutenção e evolução do sistema legado, criação de novas funcionalidades e modelagem de banco de dados relacional (SQL Server).
 
-🎓 Formando em Análise e Desenvolvimento de Sistemas pela FAM.
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela FAM.
 
 ---
 
