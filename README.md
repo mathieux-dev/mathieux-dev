@@ -45,19 +45,6 @@ Scrum · Clean Code · Design Patterns · CI/CD · TDD
 
 ---
 
-📂 **Projetos em destaque**
-
-- [🔒 AuthService (em andamento)](https://github.com/mathieux-dev) – Serviço de autenticação modular em Python, com login tradicional e via Google.
-- [📊 Sistema de monitoramento (privado)] – Backend com APIs RESTful, autenticação JWT, RabbitMQ e SQL Server.
-
----
-
-📈 **GitHub Stats (opcional)**
-
-![Mateus Mourão GitHub stats](https://github-readme-stats.vercel.app/api?username=mathieux-dev&show_icons=true&theme=default&hide_rank=true)
-
----
-
 📬 **Entre em contato**  
 - 📧 mateusvmourao@gmail.com  
 - 📞 (88) 9 9345-1030  
